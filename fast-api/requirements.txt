@@ -1,0 +1,6 @@
+ultralyticsplus==0.0.23
+ultralytics==8.0.21
+transformers
+pypdfium2==3.15.0
+ak-minio==5.0.7.post2
+"fastapi[all]"
